@@ -49,9 +49,6 @@ userChoice += lowercase
  if (specials) {
   userChoice += special
  }
- if (userChoice) {
- userChoice > passwordLength && userChoice < passwordLength
- }
  
 //formula to generate the password
  for(let i = 0; i <= passwordLength; i++){
