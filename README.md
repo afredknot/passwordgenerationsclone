@@ -8,7 +8,7 @@ if you would like to use this password generator, you can go to
 https://afredknot.github.io/randogen/
 select generate code and recieve prompts that will generate your password
 
-./assets/images/screenshot.png
+![screenshot](./assets/images/screenshot.png)
 
 if you would like to review code in visual studio code
 go to 
