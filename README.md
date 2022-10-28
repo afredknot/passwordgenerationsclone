@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator
 
 This is for creating a password, and one that can hopefully be mostly unbreakable. It can generate random passwords of different lenghts and you can choose between 4 styles and 120 different lenghts.
 
